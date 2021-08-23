@@ -29,6 +29,8 @@ filelist = glob.glob(downloadDirectory)
 
 #base URL
 basicUrl = "https://www.youtube.com/watch?v="
+
+#The number of videos it will look for in the search list
 number = 0
 while number <= 3:
 
